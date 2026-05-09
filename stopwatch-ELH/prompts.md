@@ -1,7 +1,7 @@
+He usado como herramienta Chatgpt. Con dos prompts que indico a continuación. El segundo además de confirmar que estoy deacuerdo con el plan propuesto por la IA responde a su sugerencia de usar el comando `performance.now()`.
 
 Prompt 1
 ========
-
 
 Hi, I want you to plan a web application acting as a competent web developer. The details are below. If you don't undertand something or need clarification, ask me.
 
